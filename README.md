@@ -3,28 +3,34 @@ This SQL project revolves around a database schema designed to manage and analyz
 
 **Case Study Questions:-**
 1. Retrieve the total number of orders placed.
-#L4-L7 (https://github.com/aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql)
+2. [pizza_sales_script](https://github.com/aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql#L4-L7)
 
-2. Calculate the total revenue generated from pizza sales.
- 
-3. Identify the highest-priced pizza.
- 
-4. Identify the most common pizza size ordered.
- 
-5. List the top 5 most ordered pizza types along with their quantities.
- 
-6. Join the necessary tables to find the total quantity of each pizza category ordered.
- 
-7. Determine the distribution of orders by hour of the day.
- 
-8. Join relevant tables to find the category-wise distribution of pizzas.
- 
-9. Group the orders by date and calculate the average number of pizzas ordered per day.
- 
-10. Determine the top 3 most ordered pizza types based on revenue.
+3. ```sql
+   SELECT 
+    COUNT(*) AS total_orders
+FROM 
+    orders;
 
-11. Calculate the percentage contribution of each pizza type to total revenue.
+4. Calculate the total revenue generated from pizza sales.
  
-12. Analyze the cumulative revenue generated over time.
+5. Identify the highest-priced pizza.
  
-13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+6. Identify the most common pizza size ordered.
+ 
+7. List the top 5 most ordered pizza types along with their quantities.
+ 
+8. Join the necessary tables to find the total quantity of each pizza category ordered.
+ 
+9. Determine the distribution of orders by hour of the day.
+ 
+10. Join relevant tables to find the category-wise distribution of pizzas.
+ 
+11. Group the orders by date and calculate the average number of pizzas ordered per day.
+ 
+12. Determine the top 3 most ordered pizza types based on revenue.
+
+13. Calculate the percentage contribution of each pizza type to total revenue.
+ 
+14. Analyze the cumulative revenue generated over time.
+ 
+15. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
