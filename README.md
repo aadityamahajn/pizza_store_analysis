@@ -7,7 +7,7 @@ This SQL project revolves around a database schema designed to manage and analyz
    SELECT 
     COUNT(*) AS total_orders
 FROM 
-    orders;
+    orders;```
 
 4. Calculate the total revenue generated from pizza sales.
  
