@@ -6,9 +6,9 @@ This SQL project revolves around a database schema designed to manage and analyz
  
  https://github.com/aadityamahajn/pizza_store_analysis/blob/4cdc841ef92afebe425ec2b455bcf083af9b48d5/pizza_sales_script.sql#L4-L7
 
-Output
+2. Calculate the total revenue generated from pizza sales.
 
-4. Calculate the total revenue generated from pizza sales.
+https://github.com/aadityamahajn/pizza_store_analysis/blob/ce16c4d129edbfa5817674c6472d009456f7fae2/pizza_sales_script.sql#L10-L15
  
 5. Identify the highest-priced pizza.
  
