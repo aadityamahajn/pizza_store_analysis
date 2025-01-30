@@ -3,11 +3,7 @@ This SQL project revolves around a database schema designed to manage and analyz
 
 **Case Study Questions:-**
 1. Retrieve the total number of orders placed.
-```sql
-   SELECT 
-    COUNT(*) AS total_orders
-FROM 
-    orders;```
+[trial](aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql#L4-L7)
 
 4. Calculate the total revenue generated from pizza sales.
  
