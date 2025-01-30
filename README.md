@@ -4,7 +4,7 @@ This SQL project revolves around a database schema designed to manage and analyz
 **Case Study Questions:-**
 1. Retrieve the total number of orders placed.
  
-
+https://github.com/aadityamahajn/pizza_store_analysis/blob/main/pizza%20sales%20script.sql#L4-L7
 
 Output
 
