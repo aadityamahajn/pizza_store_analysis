@@ -4,7 +4,7 @@ This SQL project revolves around a database schema designed to manage and analyz
 **Case Study Questions:-**
 1. Retrieve the total number of orders placed.
  
-```{sql}
+```sql
 SELECT 
     COUNT(*) AS total_orders
 FROM 
