@@ -3,7 +3,12 @@ This SQL project revolves around a database schema designed to manage and analyz
 
 **Case Study Questions:-**
 1. Retrieve the total number of orders placed.
- 
+```sql
+SELECT 
+    COUNT(*) AS total_orders
+FROM 
+    orders;```
+
 2. Calculate the total revenue generated from pizza sales.
  
 3. Identify the highest-priced pizza.
