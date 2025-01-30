@@ -3,9 +3,8 @@ This SQL project revolves around a database schema designed to manage and analyz
 
 **Case Study Questions:-**
 1. Retrieve the total number of orders placed.
-2. [pizza_sales_script](https://github.com/aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql#L4-L7)
-
-3. ```sql
+![pizza_sales_script](https://github.com/aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql#L4-L7)
+```sql
    SELECT 
     COUNT(*) AS total_orders
 FROM 
