@@ -5,7 +5,7 @@ This SQL project revolves around a database schema designed to manage and analyz
 1. Retrieve the total number of orders placed.
  
 ```{sql}
-[](aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql#L4-L7#L4-L7)
+[](aadityamahajn/pizza_store_analysis/blob/main/pizza_sales_script.sql#L4-L7)
 ```
 
 4. Calculate the total revenue generated from pizza sales.
