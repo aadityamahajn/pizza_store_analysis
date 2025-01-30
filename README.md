@@ -10,24 +10,26 @@ This SQL project revolves around a database schema designed to manage and analyz
 
 https://github.com/aadityamahajn/pizza_store_analysis/blob/ce16c4d129edbfa5817674c6472d009456f7fae2/pizza_sales_script.sql#L10-L15
  
-5. Identify the highest-priced pizza.
- 
-6. Identify the most common pizza size ordered.
- 
-7. List the top 5 most ordered pizza types along with their quantities.
- 
-8. Join the necessary tables to find the total quantity of each pizza category ordered.
- 
-9. Determine the distribution of orders by hour of the day.
- 
-10. Join relevant tables to find the category-wise distribution of pizzas.
- 
-11. Group the orders by date and calculate the average number of pizzas ordered per day.
- 
-12. Determine the top 3 most ordered pizza types based on revenue.
+3. Identify the highest-priced pizza.
 
-13. Calculate the percentage contribution of each pizza type to total revenue.
+https://github.com/aadityamahajn/pizza_store_analysis/blob/6ea2ea8fd85f4397479bd41d3bedfdc2f0823d1e/pizza_sales_script.sql#L18-L23
  
-14. Analyze the cumulative revenue generated over time.
+7. Identify the most common pizza size ordered.
  
-15. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+8. List the top 5 most ordered pizza types along with their quantities.
+ 
+9. Join the necessary tables to find the total quantity of each pizza category ordered.
+ 
+10. Determine the distribution of orders by hour of the day.
+ 
+11. Join relevant tables to find the category-wise distribution of pizzas.
+ 
+12. Group the orders by date and calculate the average number of pizzas ordered per day.
+ 
+13. Determine the top 3 most ordered pizza types based on revenue.
+
+14. Calculate the percentage contribution of each pizza type to total revenue.
+ 
+15. Analyze the cumulative revenue generated over time.
+ 
+16. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
