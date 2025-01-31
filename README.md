@@ -1,4 +1,4 @@
-# pizza_store_analysis
+# Pizza Store Analysis
 In this project, I conducted an exploratory data analysis (EDA) on the sales data of a local pizza store using SQL. My primary focus was to gain a deep understanding of customer behavior, sales trends, and revenue drivers. Through a series of SQL queries, I analyzed order history, customer demographics, menu item popularity, and sales performance over time. This data-driven approach aimed to uncover valuable insights that could inform strategic business decisions and ultimately contribute to increased revenue and improved operational efficiency.
 
 # Objectives
