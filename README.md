@@ -1,8 +1,8 @@
 # pizza_store_analysis
 This SQL project revolves around a database schema designed to manage and analyze data for a pizza store. The database consists of four primary tables.
 
-**Case Study Questions:-**
-1. Retrieve the total number of orders placed.
+# Case Study Questions:-
+**1. Retrieve the total number of orders placed.**
  
  https://github.com/aadityamahajn/pizza_store_analysis/blob/4cdc841ef92afebe425ec2b455bcf083af9b48d5/pizza_sales_script.sql#L4-L7
 
@@ -87,3 +87,4 @@ https://github.com/aadityamahajn/pizza_store_analysis/blob/01b76f0df39ab2216dc53
 
 https://github.com/aadityamahajn/pizza_store_analysis/blob/01b76f0df39ab2216dc53e5ea5f893a9262bea81/pizza_sales_script.sql#L155-L165
 
+# DashBoard
