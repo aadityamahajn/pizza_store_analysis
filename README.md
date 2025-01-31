@@ -6,7 +6,7 @@ This SQL project revolves around a database schema designed to manage and analyz
  
  https://github.com/aadityamahajn/pizza_store_analysis/blob/4cdc841ef92afebe425ec2b455bcf083af9b48d5/pizza_sales_script.sql#L4-L7
 
-                                        
+\\
 ![image alt](https://github.com/aadityamahajn/pizza_store_analysis/blob/edccb93389454843c3aede71e23f86661ea3f198/image/1.png)
 
 2. Calculate the total revenue generated from pizza sales.
