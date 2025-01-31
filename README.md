@@ -91,5 +91,6 @@ https://github.com/aadityamahajn/pizza_store_analysis/blob/01b76f0df39ab2216dc53
 https://github.com/aadityamahajn/pizza_store_analysis/blob/01b76f0df39ab2216dc53e5ea5f893a9262bea81/pizza_sales_script.sql#L155-L165
 
 # Recommendations based on Insights
-* To maximize efficiency, we’ve identified peak hours: 12–2 PM & 5–8 PM. Let’s ensure optimal stock and full staff presence to minimize wait times and keep operations running smoothly.\
+* To maximize efficiency, we’ve identified peak hours: 12–2 PM & 5–8 PM. Let’s ensure optimal stock and full staff presence to minimize wait times and keep operations running smoothly.
+
 * While Classic pizzas are customer favorites, our analysis shows that Chicken pizzas contribute the most to revenue. To maximize profitability, we recommend introducing discounts or combo offers on Chicken pizzas to boost sales.
