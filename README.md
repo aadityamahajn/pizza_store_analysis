@@ -1,6 +1,5 @@
 # pizza_store_analysis
-This SQL project revolves around a database schema designed to manage and analyze data for a pizza store. The database consists of four primary tables.
-
+In this project, I conducted an exploratory data analysis (EDA) on the sales data of a local pizza store using SQL. My primary focus was to gain a deep understanding of customer behavior, sales trends, and revenue drivers. Through a series of SQL queries, I analyzed order history, customer demographics, menu item popularity, and sales performance over time. This data-driven approach aimed to uncover valuable insights that could inform strategic business decisions and ultimately contribute to increased revenue and improved operational efficiency.
 # DashBoard
 ![image alt](https://github.com/aadityamahajn/pizza_store_analysis/blob/465bdfb4ed08ec9c5ff2b56fa46cb9ebc3196fa8/image/Dashboard.png)
 
